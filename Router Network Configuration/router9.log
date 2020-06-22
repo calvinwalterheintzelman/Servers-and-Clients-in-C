@@ -1,0 +1,47 @@
+<R9 -> R9> Path: R9, Cost: 0
+<R9 -> R7> Path: R9 -> R7, Cost: 10
+<R9 -> R8> Path: R9 -> R8, Cost: 10
+
+<R9 -> R9> Path: R9, Cost: 0
+<R9 -> R7> Path: R9 -> R7, Cost: 10
+<R9 -> R8> Path: R9 -> R8, Cost: 10
+<R9 -> R6> Path: R9 -> R8 -> R6, Cost: 15
+<R9 -> R5> Path: R9 -> R8 -> R5, Cost: 20
+<R9 -> R1> Path: R9 -> R8 -> R6 -> R1, Cost: 65
+<R9 -> R4> Path: R9 -> R8 -> R6 -> R4, Cost: 20
+
+<R9 -> R9> Path: R9, Cost: 0
+<R9 -> R7> Path: R9 -> R7, Cost: 10
+<R9 -> R8> Path: R9 -> R8, Cost: 10
+<R9 -> R6> Path: R9 -> R8 -> R6, Cost: 15
+<R9 -> R5> Path: R9 -> R8 -> R5, Cost: 20
+<R9 -> R1> Path: R9 -> R8 -> R6 -> R1, Cost: 65
+<R9 -> R4> Path: R9 -> R8 -> R6 -> R4, Cost: 20
+<R9 -> R0> Path: R9 -> R8 -> R6 -> R1 -> R0, Cost: 80
+<R9 -> R2> Path: R9 -> R8 -> R6 -> R4 -> R2, Cost: 25
+<R9 -> R3> Path: R9 -> R8 -> R6 -> R4 -> R3, Cost: 25
+
+<R9 -> R9> Path: R9, Cost: 0
+<R9 -> R7> Path: R9 -> R7, Cost: 10
+<R9 -> R8> Path: R9 -> R8, Cost: 10
+<R9 -> R6> Path: R9 -> R8 -> R6, Cost: 15
+<R9 -> R5> Path: R9 -> R8 -> R5, Cost: 20
+<R9 -> R1> Path: R9 -> R7 -> R6 -> R4 -> R2 -> R1, Cost: 35
+<R9 -> R4> Path: R9 -> R8 -> R6 -> R4, Cost: 20
+<R9 -> R0> Path: R9 -> R7 -> R6 -> R4 -> R3 -> R0, Cost: 45
+<R9 -> R2> Path: R9 -> R8 -> R6 -> R4 -> R2, Cost: 25
+<R9 -> R3> Path: R9 -> R8 -> R6 -> R4 -> R3, Cost: 25
+
+<R9 -> R9> Path: R9, Cost: 0
+<R9 -> R7> Path: R9 -> R7, Cost: 10
+<R9 -> R8> Path: R9 -> R8, Cost: 10
+<R9 -> R6> Path: R9 -> R8 -> R6, Cost: 15
+<R9 -> R5> Path: R9 -> R8 -> R5, Cost: 20
+<R9 -> R1> Path: R9 -> R8 -> R6 -> R4 -> R2 -> R1, Cost: 30
+<R9 -> R4> Path: R9 -> R8 -> R6 -> R4, Cost: 20
+<R9 -> R0> Path: R9 -> R8 -> R6 -> R4 -> R3 -> R0, Cost: 40
+<R9 -> R2> Path: R9 -> R8 -> R6 -> R4 -> R2, Cost: 25
+<R9 -> R3> Path: R9 -> R8 -> R6 -> R4 -> R3, Cost: 25
+
+7:Converged
+
